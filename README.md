@@ -1,8 +1,12 @@
 # 🛡️ Mustapha Nbiba – Cybersecurity Portfolio
 
-![GitHub followers](https://img.shields.io/github/followers/mustaphanbiba?style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mustapha--nbiba-blue?logo=linkedin)](https://linkedin.com/in/mustapha-nbiba)
+<a href="mailto:mustaphanbiba@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+</a>
 
+<a href="https://linkedin.com/in/mustapha-nbiba" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 
 ## 👋 Welcome!
 
