@@ -70,7 +70,7 @@ I’m passionate about building secure systems, exploring offensive and defensiv
 
 ## 🔓 CTF & Cyber Achievements
 
-- 🧠 Top 1% on TryHackMe (500+ rooms completed)
+- 🧠 Top 1% on TryHackMe (150+ rooms completed)
 - 🔐 Active on Hack The Box
 - 🏆 Regular CTF competitor (red & blue team challenges)
 - 🛠️ Built custom tools for forensic analysis & log parsing
