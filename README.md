@@ -64,7 +64,7 @@ I’m passionate about building secure systems, exploring offensive and defensiv
 
 - 🛡️ [CompTIA Security+ (SY0-701)](./Certifications/CompTIA_SecurityPlus_Certificate.md)
 - 🧑‍💻 [TryHackMe Jr Penetration Tester](./Certifications/TryHackMe_Jr_Penetration_Tester.md)
-- 📊 [TryHackMe SOC Level 1](./Certifications/THM_SOC_Level_1.md)
+- 📊 [TryHackMe SOC Level 1](./Certifications/TryHackMe_Jr_SOC_Level_1.md)
 
 ---
 
