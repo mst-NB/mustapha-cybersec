@@ -46,18 +46,6 @@ I’m passionate about building secure systems, exploring offensive and defensiv
 - 🚨 Detected Nmap and MS08-067 exploit using Kibana dashboards
 - 📊 Performed log analysis and alert correlation
 
-### 🐍 [Network Traffic Analyzer](./Projects/Network-Traffic-Analyzer)
-> Python tool to detect anomalies in packet flows
-- Parsed pcap data
-- Visualized suspicious patterns
-- Integrated basic alerting mechanism
-
-### 🔧 [Automated Vulnerability Scanner](./Projects/Nessus-Automation)
-> Scripted vulnerability scans with Nessus API and generated reports
-
-### 🌐 [LPWAN IoT Security Simulation](./Projects/LPWAN-Security-Research)
-> Simulated and analyzed attacks on LoRaWAN/Sigfox with OMNeT++
-
 ---
 
 ## 📜 Certifications
